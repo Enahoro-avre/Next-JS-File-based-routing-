@@ -1,4 +1,4 @@
-A Next js 'Event planner website' 
+## A Next js 'Event planner website' 
 This project teaches you the fundamentals of File based routing
 
 
